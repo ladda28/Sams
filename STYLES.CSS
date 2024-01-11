@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#showProfileBtn {
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#profileContainer {
+    margin-top: 20px;
+}
+
+#profileImage {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+#profileName {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
